@@ -1,4 +1,4 @@
-# Chess AI
+# xchess
 CLI chess game created in python. Implements all FIDE rules.
 
 How to play:
