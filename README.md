@@ -7,7 +7,7 @@ How to play:
   - Enter moves in the format 'e2 e4'
 
 Testing:
-  - Run pip install pytest
-  - Navigate to the directory in terminal
-  - Run pytest
+  - ```Run pip install pytest```
+  - Navigate to the directory in your terminal
+  - Run ```pytest```
 
